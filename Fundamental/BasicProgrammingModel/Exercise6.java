@@ -1,6 +1,6 @@
 import java.lang.*;
 
-public class Exercise {
+public class Exercise6 {
     public static void main(String[] args) {
         int f = 0;
         int g = 1;
