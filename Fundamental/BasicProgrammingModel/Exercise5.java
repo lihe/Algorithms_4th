@@ -1,11 +1,3 @@
-/*
- * @Author: your name
- * @Date: 2021-02-07 20:19:14
- * @LastEditTime: 2021-02-07 20:25:26
- * @LastEditors: your name
- * @Description: In User Settings Edit
- * @FilePath: \Algorithms_4th\Fundamental\BasicProgrammingModel\Exercise5.java
- */
 import edu.princeton.cs.algs4.StdOut;
 
 public class Exercise5 {
